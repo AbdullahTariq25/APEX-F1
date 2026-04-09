@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1541348263662-e06836264be8?q=80&w=2574&auto=format&fit=crop" alt="APEX F1 Banner" width="100%" style="border-radius:15px; margin-bottom: 20px;" />
+<img src="https://raw.githubusercontent.com/AbdullahTariq25/APEX-F1/main/public/frames/frame0060.jpg" alt="APEX F1 Banner" width="100%" style="border-radius:15px; margin-bottom: 20px;" />
 
 # 🏎️ APEX F1 – BUILT FOR SPEED
 <br>
